@@ -1,0 +1,624 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\characterplayerholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\characterplayerholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\charactoranim\\charactoranim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\charactoranim\\charactoranim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|c:\\users\\ksy38\\cloud repositories\\3tilem\\assets\\external\\scripts\\stagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\stagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\3tilemain\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\3tilemain\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\verka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\verka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\attackmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\attackmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\stat\\growthstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\stat\\growthstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\poker\\pokergamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\poker\\pokergamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\stat\\stepgrowthtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\stat\\stepgrowthtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\3tilemain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\3tilemain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\chirr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\chirr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\turnbased\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\turnbased\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\3tilemain\\damageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\3tilemain\\damageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\worldmap\\stagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\worldmap\\stagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\uiscripts\\settingbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\uiscripts\\settingbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\worldmap\\stagemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\worldmap\\stagemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\3tilemain\\damagepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\3tilemain\\damagepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\marshika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\marshika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\tutorialarrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\tutorialarrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\characterselectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\characterselectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\charactoranim\\autodestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\charactoranim\\autodestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\inventory\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\inventory\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\character\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\character\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\energymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\energymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\prefabs\\\u315C\u3137\u3148\\stage_1\\stattest\\monsterdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\prefabs\\\u315C\u3137\u3148\\stage_1\\stattest\\monsterdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\uiscripts\\fadetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\uiscripts\\fadetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\uiscripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\uiscripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\worldmap\\worldmapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\worldmap\\worldmapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\assets\\external\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A46106A-7E42-6774-7F4F-62ACBD2D8C99}|Assembly-CSharp.csproj|solutionrelative:assets\\external\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Stats.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stats.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:53:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterPlayerHolder.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\CharacterPlayerHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\CharacterPlayerHolder.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\CharacterPlayerHolder.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\CharacterPlayerHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:27:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\CharacterBase.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\CharacterBase.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAhwLgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:42:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TileController.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\TileController.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\3TileMain\\TileController.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\TileController.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\3TileMain\\TileController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAvwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:57:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StageManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\StageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\StageManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\StageManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\StageManager.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAIA3wPAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:52:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\PlayerCharacter.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\PlayerCharacter.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\PlayerCharacter.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAtwMoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:15:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\3TileMain\\Board.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\Board.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\3TileMain\\Board.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAewKgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:16:52.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\SkillManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\SkillManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\SkillManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\SkillManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:53:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DamageUI.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\DamageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\3TileMain\\DamageUI.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\DamageUI.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\3TileMain\\DamageUI.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAlwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:16:06.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharactorAnim.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharactorAnim\\CharactorAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\CharactorAnim\\CharactorAnim.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharactorAnim\\CharactorAnim.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\CharactorAnim\\CharactorAnim.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwH8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:02:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StageButton.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\StageButton.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\WorldMap\\StageButton.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\StageButton.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\WorldMap\\StageButton.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:09:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\PlayerManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:50:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PokerGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Poker\\PokerGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Poker\\PokerGameManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Poker\\PokerGameManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Poker\\PokerGameManager.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T15:04:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\TurnBased\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\TurnBased\\TurnManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\TurnBased\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\TurnBased\\TurnManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:03:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chirr.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Chirr.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Chirr.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Chirr.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Chirr.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:22:41.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StepGrowthTable.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\StepGrowthTable.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Stat\\StepGrowthTable.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\StepGrowthTable.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Stat\\StepGrowthTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:41:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnemyCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\EnemyCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\EnemyCharacter.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\EnemyCharacter.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\EnemyCharacter.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAjwEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:32:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StageMove.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\StageMove.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\WorldMap\\StageMove.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\StageMove.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\WorldMap\\StageMove.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:31:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingBtn.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\SettingBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\UIScripts\\SettingBtn.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\SettingBtn.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\UIScripts\\SettingBtn.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:31:40.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DamagePopup.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\DamagePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\3TileMain\\DamagePopup.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\3TileMain\\DamagePopup.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\3TileMain\\DamagePopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:38:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GrowthStep.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\GrowthStep.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Stat\\GrowthStep.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\GrowthStep.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Stat\\GrowthStep.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:39:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttackMotion.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\AttackMotion.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\AttackMotion.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\AttackMotion.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\AttackMotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:47:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LevelStatData.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Stat\\LevelStatData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:30:06.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Marshika.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Marshika.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Marshika.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Marshika.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Marshika.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:48:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Inventory\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Inventory\\InventoryManager.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAnwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:49:16.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Inventory\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Inventory\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Inventory\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Inventory\\ItemSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:10:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AutoDestory.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharactorAnim\\AutoDestory.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\CharactorAnim\\AutoDestory.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharactorAnim\\AutoDestory.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\CharactorAnim\\AutoDestory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T15:56:53.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TutorialArrowUI.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\TutorialArrowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\TutorialArrowUI.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\TutorialArrowUI.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\TutorialArrowUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:41:38.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Verka.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Verka.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\Verka.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\Verka.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\Verka.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:48:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CharacterSelectData.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharacterSelectData.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\CharacterSelectData.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\CharacterSelectData.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\CharacterSelectData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:01:20.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnergyManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\EnergyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\EnergyManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\EnergyManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\EnergyManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:52:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Character\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Character\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Character\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:32:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\Test.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:59:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FadeTransitionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\FadeTransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\UIScripts\\FadeTransitionManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\FadeTransitionManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\UIScripts\\FadeTransitionManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAzwE0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:33:22.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\UIScripts\\LoadingManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\UIScripts\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\UIScripts\\LoadingManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:26:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WorldMapManager.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\WorldMapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Scripts\\WorldMap\\WorldMapManager.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Scripts\\WorldMap\\WorldMapManager.cs",
+              "RelativeToolTip": "Assets\\External\\Scripts\\WorldMap\\WorldMapManager.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswIAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:24:55.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MonsterDataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Prefabs\\\u315C\u3137\u3148\\Stage_1\\StatTest\\MonsterDataLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\Prefabs\\\u315C\u3137\u3148\\Stage_1\\StatTest\\MonsterDataLoader.cs",
+              "ToolTip": "C:\\Users\\ksy38\\Cloud Repositories\\3TileM\\Assets\\External\\Prefabs\\\u315C\u3137\u3148\\Stage_1\\StatTest\\MonsterDataLoader.cs",
+              "RelativeToolTip": "Assets\\External\\Prefabs\\\u315C\u3137\u3148\\Stage_1\\StatTest\\MonsterDataLoader.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:53:28.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
